@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<galleries>
+  <gallery base="misc/" file="photos.xml">
+    <sitename>Презентация</sitename>
+  </gallery>
+  <gallery base="zu/" file="photos.xml">
+    <sitename>ЗУ</sitename>
+  </gallery>
+  <gallery base="pto/" file="photos.xml">
+    <sitename>ПТО</sitename>
+  </gallery>
+  <gallery base="to/" file="photos.xml">
+    <sitename>ТО</sitename>
+  </gallery>
+  <gallery base="eko/" file="photos.xml">
+    <sitename>ЭКО</sitename>
+  </gallery>
+</galleries>

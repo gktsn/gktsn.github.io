@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "4/11/2006">
+	<sitename>Презентация</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<photos id = "images">
+
+<photo
+path = "52.jpg"
+width = "450"
+height = "338"
+thumbpath = "52.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "50.jpg"
+width = "450"
+height = "300"
+thumbpath = "50.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</photo>
+
+<photo
+path = "54.jpg"
+width = "450"
+height = "300"
+thumbpath = "54.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</photo>
+
+<photo
+path = "51.jpg"
+width = "450"
+height = "338"
+thumbpath = "51.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "53.jpg"
+width = "450"
+height = "300"
+thumbpath = "53.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</photo>
+
+<photo
+path = "55.jpg"
+width = "450"
+height = "243"
+thumbpath = "55.jpg"
+thumbwidth = "75"
+thumbheight = "41">
+</photo>
+
+<photo
+path = "56.jpg"
+width = "450"
+height = "301"
+thumbpath = "56.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</photo>
+
+<photo
+path = "57.jpg"
+width = "450"
+height = "301"
+thumbpath = "57.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</photo>
+
+<photo
+path = "58.jpg"
+width = "450"
+height = "301"
+thumbpath = "58.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</photo>
+
+<photo
+path = "59.jpg"
+width = "450"
+height = "294"
+thumbpath = "59.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</photo>
+
+<photo
+path = "31.jpg"
+width = "450"
+height = "338"
+thumbpath = "31.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "32.jpg"
+width = "450"
+height = "338"
+thumbpath = "32.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "33.jpg"
+width = "450"
+height = "338"
+thumbpath = "33.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "34.jpg"
+width = "450"
+height = "338"
+thumbpath = "34.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+
+<photo
+path = "1.jpg"
+width = "450"
+height = "338"
+thumbpath = "1.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "2.jpg"
+width = "450"
+height = "338"
+thumbpath = "2.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "4.jpg"
+width = "450"
+height = "338"
+thumbpath = "4.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "6.jpg"
+width = "450"
+height = "338"
+thumbpath = "6.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "7.jpg"
+width = "450"
+height = "338"
+thumbpath = "7.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "20.jpg"
+width = "450"
+height = "338"
+thumbpath = "20.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "21.jpg"
+width = "450"
+height = "338"
+thumbpath = "21.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "22.jpg"
+width = "450"
+height = "338"
+thumbpath = "22.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "25.jpg"
+width = "450"
+height = "338"
+thumbpath = "25.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "40.jpg"
+width = "450"
+height = "338"
+thumbpath = "40.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "43.jpg"
+width = "450"
+height = "338"
+thumbpath = "43.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+<photo
+path = "41.jpg"
+width = "338"
+height = "450"
+thumbpath = "41.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</photo>
+
+<photo
+path = "42.jpg"
+width = "450"
+height = "338"
+thumbpath = "42.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</photo>
+
+</photos>
+</gallery>
